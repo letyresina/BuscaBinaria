@@ -18,10 +18,3 @@ if resultado != -1:
     print(f"Elemento presente no index {resultado}")
 else:
     print("Elemento não encontrado")
-
-# LEMBRETE :) 
-# QUANDO SAIR DA SALA DE AULA, FAVOR, REMOVER A SUA CONTA DO GITHUB!!!!! 
-# DA UM PROBLEMAO FUDIDO!!!!!!! 
-# ASS. O EU DO FUTURO, ANNONYMOUS 
-# AINDA BEM QUE VOCê TIROU SE NÃO O HACK CANTAVA!!!!!
-# ASS. FUTURO DO EU
